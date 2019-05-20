@@ -5,7 +5,7 @@ Official implementation of A Comparative Study on Wavelets and Residuals in Deep
 **A Comparative Study on Wavelets and Residuals in Deep Super Resolution**  
 Ruofan Zhou*, Fayez Lahoud*, Majed El Helou, Sabine Süsstrunk
 EI 2019
-* Both authors contribute equally to this work
+\* Both authors contribute equally to this work
 
 Contact: Ruofan Zhou (ruofan.zhou@epfl.ch)
 
