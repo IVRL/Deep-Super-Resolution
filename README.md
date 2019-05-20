@@ -3,7 +3,7 @@
 Official implementation of A Comparative Study on Wavelets and Residuals in Deep Super Resolution.
 
 **A Comparative Study on Wavelets and Residuals in Deep Super Resolution**  
-Ruofan Zhou*, Fayez Lahoud*, Majed El Helou, Sabine Süsstrunk
+Ruofan Zhou*, Fayez Lahoud*, [Majed El Helou](https://majedelhelou.github.io/), Sabine Süsstrunk
 
 EI 2019
 
